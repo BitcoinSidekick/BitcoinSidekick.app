@@ -1,0 +1,15 @@
+{
+  "appclips": {
+    "apps": ["H7WVAG4L8E.com.jeffreyjackson.Bitcoin-TV-iOS.Clip"],
+    "details": [
+      {
+        "appID": "H7WVAG4L8E.com.jeffreyjackson.Bitcoin-TV-iOS.Clip",
+        "components": [
+          {
+            "/": "/tv_clip"
+          }
+        ]
+      }
+    ]
+  }
+}
